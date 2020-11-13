@@ -5,3 +5,4 @@ started with create-react-app
 big thx to [VELOPERT](velog.io)
 and my workplace senior, Ryan Ha.
 <br>Going to upload components in /src/components that I learned.
+<br>Intentionally Leave Blank in App.js to use components manually.
